@@ -1,5 +1,7 @@
 #Library Management System Project
 
+Pre Requisite : Intellij IDE, JDK, Maven, Postman.
+
 How to run the project??
 
 1) Clone the repository in Intellij or any IDE : https://github.com/Pranay-Rayke/Library-Management-System.git
